@@ -54,8 +54,8 @@ var manifest = {
 };
 
 
-var dest = './build/jsb-default';
-var src = './build/jsb-default';
+var dest = '../hotupdate/public/remote-assets/subgame';
+var src = '../hotupdate/public/remote-assets/subgame';
 var LUJIN = process.cwd()+"/"+src;
 
 
