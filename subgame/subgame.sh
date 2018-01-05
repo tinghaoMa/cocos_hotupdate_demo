@@ -9,9 +9,10 @@ CocosCreator --path .  --build "2d2f792f-a40c-49bb-a189-ed176a246e49;debug=false
 
 rm build/jsb-default/src/jsb_polyfill.*
 
-./1.sh
-
 
 
 cp -r ./build/jsb-default/res/  ../hotupdate/public/remote-assets/subgame/res
 cp -r ./build/jsb-default/src/  ../hotupdate/public/remote-assets/subgame/src
+
+
+./1.sh
