@@ -3,7 +3,7 @@ var path = require('path');
 var crypto = require('crypto');
 
 var games = 'subgame';
-var CUHTTP = 'http://192.168.0.133/down/remote-assets/'+games+'/';
+var CUHTTP = 'http://10.2.152.120:9001/remote-assets/'+games+'/';
 
 
 function fsExistsSync(path) {
