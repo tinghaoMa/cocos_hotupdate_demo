@@ -30,7 +30,7 @@ cc.Class({
 
         this._storagePath = ((jsb.fileUtils ? jsb.fileUtils.getWritablePath() : '/') + 'ALLGame/' + name);
 
-        var UIRLFILE = "http://10.2.152.120:9001/remote-assets/" + name;
+        var UIRLFILE = "https://cocos-1255833125.cos.ap-beijing.myqcloud.com/" + name;
         var filees = this._storagePath + "/peision.manifest";
         this.manifestUrl = filees;
 

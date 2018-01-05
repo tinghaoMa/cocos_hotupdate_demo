@@ -3,7 +3,7 @@ var path = require('path');
 var crypto = require('crypto');
 
 var games = 'subgame';
-var CUHTTP = 'http://10.2.152.120:9001/remote-assets/'+games+'/';
+var CUHTTP = 'https://cocos-1255833125.cos.ap-beijing.myqcloud.com/'+games+'/';
 
 
 function fsExistsSync(path) {

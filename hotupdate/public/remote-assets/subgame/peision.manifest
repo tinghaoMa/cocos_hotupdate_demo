@@ -1,5 +1,49 @@
-{"packageUrl":"http://10.2.152.120:9001/remote-assets/subgame/",
-"remoteManifestUrl":"http://10.2.152.120:9001/remote-assets/subgame/peision.manifest",
-"remoteVersionUrl":"http://10.2.152.120:9001/remote-assets/subgame/version.manifest",
-"version":"1515136973836.22",
-"assets":{"src/dating.jsc":{"size":5420,"md5":"f45cf32844f607e61f4bfae8233be51a"},"src/main.jsc":{"size":5740,"md5":"77ade5af941138e7fad2285c909ea205"},"src/project.jsc":{"size":988,"md5":"8021693ce6513522a0b81089c46617b8"},"src/settings.jsc":{"size":776,"md5":"12d7e5449bc7f4d2ec2ccf7a3d821735"},"res/import/03/03f133834.json":{"size":4367,"md5":"e99413d7be5748f0443f04c715ed62f1"},"res/raw-assets/Texture/HelloWorld.png":{"size":37864,"md5":"55ea4e952bf080f300379ec26723598b"},"res/raw-assets/Texture/singleColor.png":{"size":17197,"md5":"e5136c625f53acd0366396e2b9d534ca"},"res/raw-internal/image/default_btn_disabled.png":{"size":205,"md5":"286c66af6af2b4adf897e854c8fcdb7a"},"res/raw-internal/image/default_btn_normal.png":{"size":223,"md5":"1ecb7913bd1d9692e167ffaa4370a4ff"},"res/raw-internal/image/default_btn_pressed.png":{"size":164,"md5":"bedf498c7bdf5735810c87a234ae0311"}},"searchPaths":[]}
+{
+    "packageUrl": "https://cocos-1255833125.cos.ap-beijing.myqcloud.com/subgame/",
+    "remoteManifestUrl": "https://cocos-1255833125.cos.ap-beijing.myqcloud.com/subgame/peision.manifest",
+    "remoteVersionUrl": "https://cocos-1255833125.cos.ap-beijing.myqcloud.com/subgame/version.manifest",
+    "version": "1515136973836.26",
+    "assets": {
+        "src/dating.jsc": {
+            "size": 5420,
+            "md5": "f45cf32844f607e61f4bfae8233be51a"
+        },
+        "src/main.jsc": {
+            "size": 5740,
+            "md5": "77ade5af941138e7fad2285c909ea205"
+        },
+        "src/project.jsc": {
+            "size": 988,
+            "md5": "8021693ce6513522a0b81089c46617b8"
+        },
+        "src/settings.jsc": {
+            "size": 776,
+            "md5": "12d7e5449bc7f4d2ec2ccf7a3d821735"
+        },
+        "res/import/03/03f133834.json": {
+            "size": 4367,
+            "md5": "e99413d7be5748f0443f04c715ed62f1"
+        },
+        "res/raw-assets/Texture/HelloWorld.png": {
+            "size": 37864,
+            "md5": "55ea4e952bf080f300379ec26723598b"
+        },
+        "res/raw-assets/Texture/singleColor.png": {
+            "size": 17197,
+            "md5": "e5136c625f53acd0366396e2b9d534ca"
+        },
+        "res/raw-internal/image/default_btn_disabled.png": {
+            "size": 205,
+            "md5": "286c66af6af2b4adf897e854c8fcdb7a"
+        },
+        "res/raw-internal/image/default_btn_normal.png": {
+            "size": 223,
+            "md5": "1ecb7913bd1d9692e167ffaa4370a4ff"
+        },
+        "res/raw-internal/image/default_btn_pressed.png": {
+            "size": 164,
+            "md5": "bedf498c7bdf5735810c87a234ae0311"
+        }
+    },
+    "searchPaths": []
+}
